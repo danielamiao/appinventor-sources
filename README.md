@@ -2,6 +2,7 @@
 An Automated Privacy Description Generator for MIT App Inventor
 
 Author: Daniela Miao, SM 2014
+
 Date: August 2014
 
 ##Introduction
